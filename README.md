@@ -1,9 +1,9 @@
 
 ---
 <table>
-  <tr style="height:100px">
-    <td><img src="variational_EB.png"></td>
-    <td><img src="network_darktheme.png"></td>
+  <tr>
+    <td><img src="variational_EB.png" height="50%"></td>
+    <td><img src="network_darktheme.png" height="50%"></td>
   </tr>
 </table>
 
