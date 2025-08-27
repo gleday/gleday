@@ -1,6 +1,7 @@
 
 ---
 <div align="center">
+  <img src="variational_EB.png" width="50%">
   <img src="network_darktheme.png" width="50%">
 </div>
 
