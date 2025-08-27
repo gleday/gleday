@@ -1,9 +1,11 @@
 
 ---
-<div align="center">
-  <img src="variational_EB.png" width="50%">
-  <img src="network_darktheme.png" width="50%">
-</div>
+<table>
+  <tr>
+    <td><img src="variational_EB.png"></td>
+    <td><img src="network_darktheme.png"></td>
+  </tr>
+</table>
 
 
 <!--
