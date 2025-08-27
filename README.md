@@ -2,7 +2,7 @@
 ---
 <table>
   <tr>
-    <td><img src="variational_EB.png" height="50%"></td>
+    <td><img src="variational_EB.svg" height="50%"></td>
     <td><img src="random_graph.svg" height="50%"></td>
   </tr>
 </table>
