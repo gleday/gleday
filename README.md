@@ -1,7 +1,7 @@
 
 ---
 <table>
-  <tr>
+  <tr style="height:50%;">
     <td><img src="variational_EB.png"></td>
     <td><img src="network_darktheme.png"></td>
   </tr>
