@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Alt text](network.png)
+![Network image](network.svg)
 
 <!--
 **gleday/gleday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
