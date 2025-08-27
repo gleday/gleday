@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td><img src="variational_EB.png" height="50%"></td>
-    <td><img src="network_darktheme.png" height="50%"></td>
+    <td><img src="random_graph.png" height="50%"></td>
   </tr>
 </table>
 
