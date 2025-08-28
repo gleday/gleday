@@ -1,14 +1,14 @@
 
 ---
-<table style="width:100%; table-layout: fixed; border-collapse: collapse;" cellpadding="0" cellspacing="0">
+<table style="width:100%; table-layout: fixed;">
  <tr>
-  <td style="width:33.3%; overflow: hidden; border: none;">
+  <td style="width:33.3%; overflow: hidden;">
    <img src="variational_EB.svg" style="width:100%; height:auto;">
   </td>
-  <td style="width:33.3%; overflow: hidden; border: none;">
+  <td style="width:33.3%; overflow: hidden;">
    <img src="random_graph.svg" style="width:100%; height:auto;">
   </td>
-  <td style="width:33.3%; overflow: hidden; border: none;">
+  <td style="width:33.3%; overflow: hidden;">
    <img src="plot_ml.svg" style="width:100%; height:auto;">
   </td>
  </tr>
