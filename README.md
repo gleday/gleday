@@ -1,6 +1,6 @@
 
 ---
-  <div class="row">
+  <div class="row" style="height:100px;">
     <div class="col">
       <img src="variational_EB.svg" style="width:100%; height:auto;">
     </div>
