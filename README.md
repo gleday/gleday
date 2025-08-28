@@ -1,6 +1,6 @@
 
 ---
-<table style="width:100%; height:500px; table-layout: fixed;">
+<table style="width:100%; height:250px; table-layout: fixed;">
  <tr>
   <td style="width:33.3%; overflow: hidden;">
    <img src="images/variational_EB.svg" style="width:100%; height:auto;">
