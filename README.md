@@ -3,16 +3,16 @@
 <div class="container">
   <div class="row no-gutters">
     <div class="col-sm">
-      <img src="variational_EB.svg" class="img-fluid">
+      <img src="variational_EB.svg" class="img-fluid h-100">
     </div>
     <div class="col-sm">
-      <img src="random_graph.svg" class="img-fluid">
+      <img src="random_graph.svg" class="img-fluid h-100">
     </div>
     <div class="col-sm">
-      <img src="plot_ml.svg" class="img-fluid">
+      <img src="plot_ml.svg" class="img-fluid h-100">
     </div>
     <div class="col-sm">
-      <img src="plot_ppi.svg" class="img-fluid">
+      <img src="plot_ppi.svg" class="img-fluid h-100">
     </div>
   </div>
 </div>
