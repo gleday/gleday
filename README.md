@@ -5,6 +5,10 @@
     <td><img src="variational_EB.svg" height="50%"></td>
     <td><img src="random_graph.svg" height="50%"></td>
   </tr>
+  <tr>
+    <td style="width:30%"><img src="plot_ml.svg"></td>
+    <td style="width:70%"><img src="plot_ppi.svg"></td>
+  </tr>
 </table>
 
 
