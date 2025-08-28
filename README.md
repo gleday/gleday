@@ -1,7 +1,7 @@
 
 ---
 <table>
-  <tr style="height:100px">
+  <tr style="height:50px">
     <td  style="width:33%"><img src="variational_EB.svg"></td>
     <td  style="width:33%"><img src="random_graph.svg"></td>
     <td  style="width:33%"><img src="plot_ml.svg"></td>
