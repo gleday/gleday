@@ -1,11 +1,18 @@
 
 ---
-
-::: {layout-ncol=3}
-[![](variational_EB.svg)]
-[![](random_graph.svg)]
-[![](plot_ml.svg)]
-:::
+<table style="width:100%; table-layout: fixed;">
+ <tr>
+  <td style="width:33.3%; overflow: hidden;">
+   <img src="variational_EB.svg" style="width:100%; height:auto;">
+  </td>
+  <td style="width:33.3%; overflow: hidden;">
+   <img src="random_graph.svg" style="width:100%; height:auto;">
+  </td>
+  <td style="width:33.3%; overflow: hidden;">
+   <img src="plot_ml.svg" style="width:100%; height:auto;">
+  </td>
+ </tr>
+</table>
 
 <!--
 **gleday/gleday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
