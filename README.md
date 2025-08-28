@@ -2,9 +2,9 @@
 ---
 
 ::: {layout-ncol=3}
-![](variational_EB.svg)
-![](random_graph.svg)
-![](plot_ml.svg)
+[![](variational_EB.svg)]
+[![](random_graph.svg)]
+[![](plot_ml.svg)]
 :::
 
 <!--
