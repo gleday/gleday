@@ -2,10 +2,10 @@
 ---
 <table>
   <tr>
-    <td  style="width:25%"><img src="variational_EB.svg"></td>
-    <td  style="width:25%"><img src="random_graph.svg"></td>
-    <td  style="width:25%"><img src="plot_ml.svg"></td>
-    <td  style="width:25%"><img src="plot_ppi.svg" height="25%"></td>
+    <td  style="width:25%"><img src="variational_EB.svg" width="100%" height="100%"></td>
+    <td  style="width:25%"><img src="random_graph.svg" width="100%" height="100%"></td>
+    <td  style="width:25%"><img src="plot_ml.svg" width="100%" height="100%"></td>
+    <td  style="width:25%"><img src="plot_ppi.svg" width="100%" height="100%"></td>
   </tr>
 </table>
 
