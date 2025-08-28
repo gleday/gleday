@@ -1,6 +1,6 @@
 
 ---
-<div class="container">
+<div class="container" style="height:200px">
   <div class="row no-gutters">
     <div class="col-sm">
       <img src="variational_EB.svg" class="img-fluid h-100">
