@@ -2,16 +2,16 @@
 ---
 <div class="container">
   <div class="row">
-    <div class="column">
+    <div class="col-sm">
       <img src="variational_EB.svg" style="width:100%">
     </div>
-    <div class="column">
+    <div class="col-sm">
       <img src="random_graph.svg" style="width:100%">
     </div>
-    <div class="column">
+    <div class="col-sm">
       <img src="plot_ml.svg" style="width:100%">
     </div>
-    <div class="column">
+    <div class="col-sm">
       <img src="plot_ppi.svg" style="width:100%">
     </div>
   </div>
