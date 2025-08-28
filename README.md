@@ -1,18 +1,22 @@
 
 ---
 <table style="width:100%;">
-  <tr>
-    <td style="width:33.3%;">
-      <img src="variational_EB.svg" style="width:100%; height:auto;">
-    </td>
-    <td style="width:33.3%;">
-      <img src="random_graph.svg" style="width:100%; height:auto;">
-    </td>
-    <td style="width:33.3%;">
-      <img src="plot_ml.svg" style="width:100%; height:auto;">
-    </td>
-  </tr>
+ <tr>
+  <td style="width:25%;">
+   <img src="variational_EB.svg" style="width:100%; height:auto;">
+  </td>
+  <td style="width:25%;">
+   <img src="random_graph.svg" style="width:100%; height:auto;">
+  </td>
+  <td style="width:25%;">
+   <img src="plot_ml.svg" style="width:100%; height:auto;">
+  </td>
+  <td style="width:25%;">
+   <img src="plot_ppi.svg" style="width:100%; height:auto;">
+  </td>
+ </tr>
 </table>
+ 
 
 
 <!--
