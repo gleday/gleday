@@ -1,7 +1,11 @@
 
 ---
-| ---------------------- | ---------------------- | ---------------------- |
-| ![var](variational_EB.svg) | ![graph](random_graph.svg) | ![ml](plot_ml.svg) |
+
+::: {layout-ncol=3}
+![](variational_EB.svg)
+![](random_graph.svg)
+![](plot_ml.svg)
+:::
 
 <!--
 **gleday/gleday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
