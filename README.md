@@ -14,7 +14,7 @@
  </tr>
  <tr>
   <td style="width:100%; overflow: hidden;">
-   <img src="plot_ppl.svg" style="width:100%; height:auto;">
+   <img src="plot_ppi.svg" style="width:100%; height:auto;">
   </td>
  </tr>
 </table>
