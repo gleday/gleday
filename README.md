@@ -1,5 +1,6 @@
 
 ---
+<div class="container">
   <div class="row"">
     <div class="col">
       <img src="variational_EB.svg" style="width:100%; height:auto;">
@@ -11,7 +12,7 @@
       <img src="plot_ml.svg" style="width:100%; height:auto;">
     </div>
   </div>
-
+</div>
 
 <!--
 **gleday/gleday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
