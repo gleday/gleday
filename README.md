@@ -1,20 +1,21 @@
 
 ---
-<div class="row">
-  <div class="column">
-    <img src="variational_EB.svg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="random_graph.svg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="plot_ml.svg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="plot_ppi.svg" style="width:100%">
+<div class="container">
+  <div class="row">
+    <div class="column">
+      <img src="variational_EB.svg" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="random_graph.svg" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="plot_ml.svg" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="plot_ppi.svg" style="width:100%">
+    </div>
   </div>
 </div>
- 
 
 
 <!--
