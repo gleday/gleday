@@ -2,9 +2,9 @@
 ---
 <table>
   <tr style="height:50px">
-    <td  style="width:33%; height:50px"><img src="variational_EB.svg" style="display:block;" width="100%" height="100%"></td>
-    <td  style="width:33%; height:50px"><img src="random_graph.svg" style="display:block;" width="100%" height="100%"></td>
-    <td  style="width:33%; height:50px"><img src="plot_ml.svg" style="display:block;" width="100%" height="100%"></td>
+    <td  style="width:50px; height:50px"><img src="variational_EB.svg" style="display:block;" width="100%" height="100%"></td>
+    <td  style="width:50px; height:50px"><img src="random_graph.svg" style="display:block;" width="100%" height="100%"></td>
+    <td  style="width:50px; height:50px"><img src="plot_ml.svg" style="display:block;" width="100%" height="100%"></td>
   </tr>
   <tr>
     <td  style="width:100%"><img src="plot_ppi.svg" width="100%" height="100%"></td>
