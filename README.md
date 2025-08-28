@@ -1,21 +1,19 @@
 
 ---
-<div class="container-fluid">
-  <div class="row no-gutters" style="height: 100px">
-    <div class="col-sm">
+  <div class="row">
+    <div class="col">
       <img src="variational_EB.svg" style="width:100%; height:auto;">
     </div>
-    <div class="col-sm">
+    <div class="col">
       <img src="random_graph.svg" style="width:100%; height:auto;">
     </div>
-    <div class="col-sm">
+    <div class="col">
       <img src="plot_ml.svg" style="width:100%; height:auto;">
     </div>
-    <div class="col-sm">
+    <div class="col">
       <img src="plot_ppi.svg" style="width:100%; height:auto;">
     </div>
   </div>
-</div>
 
 
 <!--
