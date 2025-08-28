@@ -13,7 +13,7 @@
   </td>
  </tr>
  <tr>
-  <td style="width:100%; overflow: hidden;">
+  <td style="width:100%; overflow: hidden;" colspan="3">
    <img src="plot_ppi.svg" style="width:100%; height:auto;">
   </td>
  </tr>
