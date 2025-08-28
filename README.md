@@ -1,18 +1,7 @@
 
 ---
-<div class="container">
-  <div class="row" style="width:100%;">
-    <div class="col">
-      <img src="variational_EB.svg" style="width:100%; height:auto;">
-    </div>
-    <div class="col">
-      <img src="random_graph.svg" style="width:100%; height:auto;">
-    </div>
-    <div class="col">
-      <img src="plot_ml.svg" style="width:100%; height:auto;">
-    </div>
-  </div>
-</div>
+| ---------------------- | ---------------------- | ---------------------- |
+| ![var](variational_EB.svg) | ![graph](random_graph.svg) | ![ml](plot_ml.svg) |
 
 <!--
 **gleday/gleday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
