@@ -1,17 +1,17 @@
 
 ---
-<div style="display:flex;">
-  <div style="flex:1;">
-    <img src="variational_EB.svg" style="width:100%; height:auto;">
+<div class="row">
+  <div class="column">
+    <img src="variational_EB.svg" style="width:100%">
   </div>
-  <div style="flex:1;">
-    <img src="random_graph.svg" style="width:100%; height:auto;">
+  <div class="column">
+    <img src="random_graph.svg" style="width:100%">
   </div>
-  <div style="flex:1;">
-    <img src="plot_ml.svg" style="width:100%; height:auto;">
+  <div class="column">
+    <img src="plot_ml.svg" style="width:100%">
   </div>
-  <div style="flex:1;">
-    <img src="plot_ppi.svg" style="width:100%; height:auto;">
+  <div class="column">
+    <img src="plot_ppi.svg" style="width:100%">
   </div>
 </div>
  
