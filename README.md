@@ -1,21 +1,19 @@
 
 ---
-<table style="width:100%; table-layout: fixed;">
- <tr>
-  <td style="width:25%; overflow: hidden;">
-   <img src="variational_EB.svg" style="width:100%; height:auto;">
-  </td>
-  <td style="width:25%; overflow: hidden;">
-   <img src="random_graph.svg" style="width:100%; height:auto;">
-  </td>
-  <td style="width:25%; overflow: hidden;">
-   <img src="plot_ml.svg" style="width:100%; height:auto;">
-  </td>
-  <td style="width:25%; overflow: hidden;">
-   <img src="plot_ppi.svg" style="width:100%; height:auto;">
-  </td>
- </tr>
-</table>
+<div style="display:flex;">
+  <div style="flex:1;">
+    <img src="variational_EB.svg" style="width:100%; height:auto;">
+  </div>
+  <div style="flex:1;">
+    <img src="random_graph.svg" style="width:100%; height:auto;">
+  </div>
+  <div style="flex:1;">
+    <img src="plot_ml.svg" style="width:100%; height:auto;">
+  </div>
+  <div style="flex:1;">
+    <img src="plot_ppi.svg" style="width:100%; height:auto;">
+  </div>
+</div>
  
 
 
