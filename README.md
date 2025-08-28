@@ -1,7 +1,7 @@
 
 ---
-<div class="container" style="height:200px">
-  <div class="row no-gutters">
+<div class="container">
+  <div class="row no-gutters" style="height: 100px">
     <div class="col-sm">
       <img src="variational_EB.svg" class="img-fluid h-100">
     </div>
