@@ -5,7 +5,7 @@
     <td  style="width:25%"><img src="variational_EB.svg"></td>
     <td  style="width:25%"><img src="random_graph.svg"></td>
     <td  style="width:25%"><img src="plot_ml.svg"></td>
-    <td  style="width:25%"><img src="plot_ppi.svg"></td>
+    <td  style="width:25%"><img src="plot_ppi.svg" height="50%"></td>
   </tr>
 </table>
 
