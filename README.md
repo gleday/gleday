@@ -1,7 +1,7 @@
 
 ---
 <div class="container">
-  <div class="row"">
+  <div class="row">
     <div class="col">
       <img src="variational_EB.svg" style="width:100%; height:auto;">
     </div>
