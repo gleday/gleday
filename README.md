@@ -2,16 +2,16 @@
 ---
   <div class="row" style="height:100px;">
     <div class="col">
-      <img src="variational_EB.svg" style="width:100%; height:auto;">
+      <img src="variational_EB.svg" style="width:auto; height:100%;">
     </div>
     <div class="col">
-      <img src="random_graph.svg" style="width:100%; height:auto;">
+      <img src="random_graph.svg" style="width:auto; height:100%;">
     </div>
     <div class="col">
-      <img src="plot_ml.svg" style="width:100%; height:auto;">
+      <img src="plot_ml.svg" style="width:auto; height:100%;">
     </div>
     <div class="col">
-      <img src="plot_ppi.svg" style="width:100%; height:auto;">
+      <img src="plot_ppi.svg" style="width:auto; height:100%;">
     </div>
   </div>
 
