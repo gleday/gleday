@@ -3,16 +3,16 @@
 <table style="width:100%;">
  <tr>
   <td style="width:25%;">
-   <img src="variational_EB.svg" style="width:auto; height:auto;">
+   <img src="variational_EB.svg" style="width:auto; height:100%;">
   </td>
   <td style="width:25%;">
-   <img src="random_graph.svg" style="width:auto; height:auto;">
+   <img src="random_graph.svg" style="width:auto; height:100%;">
   </td>
   <td style="width:25%;">
-   <img src="plot_ml.svg" style="width:auto; height:auto;">
+   <img src="plot_ml.svg" style="width:auto; height:100%;">
   </td>
   <td style="width:25%;">
-   <img src="plot_ppi.svg" style="width:auto; height:auto;">
+   <img src="plot_ppi.svg" style="width:auto; height:100%;">
   </td>
  </tr>
 </table>
